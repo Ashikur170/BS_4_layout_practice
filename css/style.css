@@ -1,0 +1,54 @@
+.header, .sidebar, .footer{
+	background-color: #9FC5F8;
+}
+.box{
+	min-height: 25px;
+	margin-bottom: 5px;
+	background-color: #CFE2FB;
+	text-align: center;
+}
+.b_header{
+	min-height: 50px;
+	line-height: 50px;
+}
+.hero{
+	background-color: #9FA5F8;
+}
+.hero .bgc_hero{
+	background-color: #9FC5F8;
+}
+.b_hero{
+	min-height: 100px;
+	line-height: 100px;
+}
+.b_ad{
+	min-height: 100px;
+	background-color: #6FA8DC;
+	line-height: 160px;
+	text-align: center;
+}
+.body{
+	background-color: #C4E538;
+}
+.body .bgc_body{
+	background-color: #9FC5F8;
+}
+.b_body{
+	min-height: 200px;
+	line-height: 200px;
+}
+.body .b_ad{
+	min-height: 200px;
+	background-color: #6FA8DC;
+	line-height: 200px;
+	text-align: center;
+}
+.b_sidebar{
+	min-height: 180px;
+	background-color: #CFE2FB;
+	line-height: 180px;
+}
+.sidebar .b_sidebar{
+	min-height: 100px;
+	line-height: 100px;
+}
