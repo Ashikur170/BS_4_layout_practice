@@ -21,11 +21,10 @@
 	min-height: 100px;
 	line-height: 100px;
 }
-.b_ad{
+.box_ad{
 	min-height: 100px;
 	background-color: #6FA8DC;
-	line-height: 160px;
-	text-align: center;
+	line-height: 150px;
 }
 .body{
 	background-color: #C4E538;
